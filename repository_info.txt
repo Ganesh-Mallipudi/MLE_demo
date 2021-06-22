@@ -1,1 +1,1 @@
-This is a demo repository created for learning git commands.
+This repository is created specifically for learning git commands.
